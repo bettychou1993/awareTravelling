@@ -1,0 +1,15 @@
+markers = [
+   {
+     "name": "The House at Cornell Tech",
+     "url": "https://thehouseatcornelltech.com/",
+     "lat": 40.755803,
+     "lng": -73.954862
+   },
+   {
+     "name": "Cornell Tech - Tata Innovation Center",
+     "url": "https://tech.cornell.edu/campus/tata-innovation-center",
+     "lat": 40.755432,
+     "lng": -73.955388
+   },
+   ];
+
